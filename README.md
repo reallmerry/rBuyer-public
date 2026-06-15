@@ -44,9 +44,9 @@ The plugin is available for purchase.
 | Currency                | Price    |
 | ----------------------- | -------- |
 | Russian Ruble (RUB)     | 7,500 ₽  |
-| US Dollar (USD)         | $100     |
-| Tether TRC20 (USDT)     | 105 USDT |
-| Euro (EUR)              | €90      |
+| US Dollar (USD)         | $105     |
+| Tether TRC20 (USDT)     | 110 USDT |
+| Euro (EUR)              | €95      |
 | Ukrainian Hryvnia (UAH) | ₴4,700   |
 
 > Prices in foreign currencies are calculated based on the current exchange rate and may vary slightly at the time of purchase.
