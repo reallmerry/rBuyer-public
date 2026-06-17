@@ -3,6 +3,7 @@
 An advanced cross-server resource buyer featuring a dynamic economy, progression system, auto-sell functionality, boosters, global statistics and full Redis synchronization.
 
 Originally developed as a custom commission, the plugin is now available for purchase.
+
 ![views](https://visitor-badge.laobi.icu/badge?page_id=reallmerry.rBuyer-public)
 
 ## Purchase & Contact
